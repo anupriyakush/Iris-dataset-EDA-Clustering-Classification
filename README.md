@@ -1,5 +1,7 @@
 # Iris-dataset-EDA-Clustering-Classification
 
+Project done under Prof. Yan yu.
+
 EDA:
 
 Data Definition
